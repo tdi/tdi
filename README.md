@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Darek ;) 
+
+💬 Ask me about future of computing :) 
+
 <!--
 **tdi/tdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

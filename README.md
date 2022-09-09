@@ -1,20 +1,17 @@
 ### Hi there 👋
 
-My name is Darek ;) 
+My name is Darek ;) 💬 Ask me about future of computing :) 
 
-💬 Ask me about future of computing :) 
+I am a generalist with skills in leadership, public cloud architectures, software development and CS research. I have done my fair share of entepreneurial work and angel investing. 
 
-<!--
-**tdi/tdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love technology, feel best in "building" part of the shop, whether it is a company, code, architecture or infrastructure. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👯 I’m looking to collaborate on wasm, pubic cloud, kubernetes related projects, especially with developer productivity in the scope
+- 📫 How to reach me: @darek on K8S slack or 7d1 in Twitter
+
+
+
+
+
